@@ -1,0 +1,7 @@
+@media(width<=640px){}
+.appContainer h1{
+  font-size: 35px; 
+}
+.appContainer p{
+  font-size: 18px; 
+}
